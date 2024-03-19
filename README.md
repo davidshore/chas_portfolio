@@ -10,7 +10,7 @@ publicera er portfolio. Ni ska även öva på app router genom att skriva om er 
 1. Läs på hur du publicerar next-projekt på vercel: [Deploy on Vercel](https://nextjs.org/learn-pages-router/basics/deploying-nextjs-app/deploy)
 1. Publicera alla projekt som du vill visa upp med vercel.
 1. Publicera din portfolio med länkar till alla dina projekt.
-1. (Ej obligatoriskt) Köp ett domännamn och peka det till ditt ip-nummer på vercel.
+1. (Ej obligatoriskt) Köp ett domännamn och peka det till ditt ip-nummer på vercel. [Läs på om det här](https://vercel.com/docs/projects/domains/add-a-domain)
 
 ## Hur du lämnar in
 
